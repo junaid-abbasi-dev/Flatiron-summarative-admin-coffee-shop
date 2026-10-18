@@ -1,0 +1,74 @@
+{
+  "coffees": [
+    {
+      "id": 1,
+      "name": "Ethiopian Yirgacheffe",
+      "description": "Bright and floral with notes of lemon and jasmine.",
+      "origin": "Ethiopia",
+      "price": 16.89
+    },
+    {
+      "id": 2,
+      "name": "Colombian Supremo",
+      "description": "Smooth and balanced with caramel sweetness.",
+      "origin": "Colombia",
+      "price": 14.5
+    },
+    {
+      "id": 3,
+      "name": "Sumatra Mandheling",
+      "description": "Full-bodied and earthy with a hint of spice.",
+      "origin": "Indonesia",
+      "price": 15.25
+    },
+    {
+      "id": 4,
+      "name": "Guatemala Antigua",
+      "description": "Rich chocolate flavor with a soft, smoky finish.",
+      "origin": "Guatemala",
+      "price": 15.75
+    },
+    {
+      "id": 5,
+      "name": "Kenya AA",
+      "description": "Bold and juicy with blackcurrant and citrus notes.",
+      "origin": "Kenya",
+      "price": 18
+    },
+    {
+      "id": 6,
+      "name": "Brazil Santos",
+      "description": "Nutty and low-acid, great for espresso.",
+      "origin": "Brazil",
+      "price": 12.99
+    },
+    {
+      "name": "new coffee",
+      "description": "jjjj",
+      "origin": "africa",
+      "price": "14.89",
+      "id": 7
+    },
+    {
+      "name": "new coffe 2",
+      "description": "jjj",
+      "origin": "gg",
+      "price": 12.33,
+      "id": 8
+    },
+    {
+      "name": "new",
+      "description": "new",
+      "origin": "new",
+      "price": 12.33,
+      "id": 9
+    },
+    {
+      "name": "new new ",
+      "description": "new new ",
+      "origin": "nee",
+      "price": 11,
+      "id": 10
+    }
+  ]
+}
